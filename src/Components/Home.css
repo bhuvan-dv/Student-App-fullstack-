@@ -1,0 +1,22 @@
+#home{
+  width:100%;
+}
+#home article{
+  width:85%;
+  margin:10px auto;
+  display: flex;
+}
+.css-1fkzs83{
+    /* max-width: 25%!important; */
+    flex-basis: 100%;
+    background-color: blue!important;
+}
+.css-1v5z4dq-MuiPaper-root-MuiCard-root{
+    background-color: aqua!important;
+}
+#mega a:first-child{
+    color:green;
+}
+#mega a:nth-child(1){
+    color:red;
+}
